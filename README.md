@@ -13,5 +13,5 @@ Got an issue with this? Let me know in the issues tab (issues are currently open
 # funny silly willy fact about this project
 No one helped me making this. 💀
 
-# Second Disclaimer
+# Disclaimer
 I made this for educational purposes only, don't use this with malicious intentions.
