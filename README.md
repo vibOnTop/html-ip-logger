@@ -7,8 +7,11 @@ Log other people's ips to a discord webhook using HTML
 # Configuration
 Go to `hijack.js` and replace YOUR_WEBHOOK_HERE with your Webhook URL
 
+# Hosting service
+For hosting this, it is highly recommended to use Replit or any other free hosting services such as glitch (you can find more online too)
+
 # Issues
-Got an issue with this? Let me know in the issues tab (issues are currently open)
+Got an issue with this program? Let me know in the issues tab (issues are currently open)
 
 # funny silly willy fact about this project
 No one helped me making this. 💀
